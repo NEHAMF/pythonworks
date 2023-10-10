@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: mediumturquoise;
+    border: 1px solid black;
+}
+.box_one{
+    margin-right: auto;
+}
+.box_two{
+    margin-left: auto;
+    margin-right: auto;
+}
+.box_three{
+    margin-left: auto;
+}

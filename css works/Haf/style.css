@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: aliceblue;
+}
+.mainheading{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 250%;
+    font-style: italic;
+}
+h2{
+    color: blue;
+}
+.subheading{
+    
+    
+}

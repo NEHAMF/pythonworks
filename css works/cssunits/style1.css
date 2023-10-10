@@ -1,0 +1,43 @@
+/* external css */
+body{
+    background-color:#e8d5df;
+}
+h1{
+    color: brown;
+}
+#h1_two{
+    color: rgb(177, 112, 28);
+}
+
+.list-item{
+    color: rgb(179, 79, 147);
+    text-decoration: underline;
+    /* text-decoration-color: #080112;; */
+}
+
+.item-odd{
+    text-decoration-color:rgb(4, 66, 29) ;
+}
+.item-even{
+    text-decoration-color:blue ;
+}
+.main-head{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+    text-decoration-color: black;
+    font-style: italic;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.items h1{
+    color: rgb(218, 48, 187);
+}
+/* zudoo element */
+.items h1:nth-child(1){
+    text-decoration: overline;
+}
+.items h1:nth-child(2){
+    text-decoration: line-through;
+    
+}

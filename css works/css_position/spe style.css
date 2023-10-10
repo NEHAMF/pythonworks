@@ -1,0 +1,151 @@
+
+
+body{
+    background-color: black;
+}
+
+.col{
+    height:100px;
+    width:5%;
+    border: 1px solid black;
+    float: left;
+    margin-left:280px;
+    /* margin-bottom: 40px; */
+    position: absolute; 
+    /* left: 30px;  */
+    
+    
+
+}
+.row .col:nth-child(1){
+    background-color: blueviolet;
+    position: absolute;
+    left: 24%;
+}
+.row .col:nth-child(2){
+    background-color: burlywood;
+    position: absolute;
+    left: 31%;
+
+}
+
+.row .col:nth-child(3){
+    background-color: yellowgreen;
+    position: absolute;
+    left:38%; 
+
+}
+
+.row .col:nth-child(4){
+    background-color: rgb(135, 151, 222);
+    position: absolute;
+    left: 45%;
+
+}
+.row .col:nth-child(5){
+    background-color: rgb(208, 135, 222);
+    position: absolute;
+    left: 52%;
+}
+.col2{
+    height:150px;
+    width:100px;
+    border: 1px solid white;
+    float: left;
+    margin-left:200px;
+    margin-top:180px;
+
+}
+.row1 .col2:nth-child(1){
+    background-color: blueviolet;
+    position: absolute;
+    left: 24%;
+}
+.row1 .col2:nth-child(2){
+    background-color: burlywood;
+    position: absolute;
+    left: 31%;
+
+}
+
+.row1 .col2:nth-child(3){
+    background-color: yellowgreen;
+    position: absolute;
+    left:38% 
+
+}
+
+.row1 .col2:nth-child(4){
+    background-color: rgb(135, 151, 222);
+    position: absolute;
+    left: 45%;
+
+}
+.row1 .col2:nth-child(5){
+    background-color: rgb(222, 210, 135);
+    position: absolute;
+    left: 52%;
+}
+.row1 .col2:nth-child(6){
+    background-color: rgb(135, 135, 222);
+    position: absolute;
+    left: 59%;
+}
+.row1 .col2:nth-child(7){
+    background-color: rgb(71, 69, 90);
+    position: absolute;
+    left: 66%;
+}
+   .col3{
+    height:150px;
+    width:100px;
+    border: 1px solid white;
+    float: left;
+    margin-left:300px;
+    margin-top:380px;
+}
+.row2.col3:nth-child(1){
+    background-color: blueviolet;
+    position: absolute;
+    left: 24%; 
+ }
+  .row2 .col3:nth-child(2){
+    background-color: burlywood; 
+    position: absolute; 
+    left: 31%;
+} 
+.row2 .col3:nth-child(3){ 
+    background-color: yellowgreen;
+    position: absolute;
+    left:38% 
+}
+.row2 .col3:nth-child(4){
+    background-color: rgb(135, 151, 222);
+    position: absolute;
+    left: 45%;
+}
+.row2 .col3:nth-child(5){
+    background-color: rgb(222, 210, 135);
+    position: absolute;
+    left: 52%;
+}
+.row2.col3:nth-child(6){
+    background-color: rgb(135, 135, 222);
+    position: absolute;
+    left: 59%;
+}
+.row2 .col3:nth-child(7){
+    background-color: rgb(188, 200, 171);
+    position: absolute;
+    left: 66%;
+}  
+.row2 .col3:nth-child(8){
+    background-color: rgb(65, 88, 76);
+    position: absolute; 
+     left: 73%;
+}
+.row2 .col3:nth-child(9){
+    background-color: rgb(20, 14, 73);
+     position: absolute; 
+    left: 80%;
+}  

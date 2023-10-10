@@ -1,0 +1,11 @@
+prev=0
+currentnum=1
+print(prev)
+print(currentnum)
+start=1
+while(start<=9):
+     fib=prev+currentnum
+     print(fib)
+     prev=currentnum
+     currentnum=fib
+     start=start+1

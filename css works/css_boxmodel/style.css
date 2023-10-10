@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    border: 1px solid black;
+    margin-left:200px ;
+    margin-top: 100px;
+    padding: 20px;
+}
+.box_one{
+    width: 200px;
+    height: 100px;
+    background-color: saddlebrown;
+    border: 1px solid black;
+    margin-left:200px ;
+    margin-top: 500px;
+}
